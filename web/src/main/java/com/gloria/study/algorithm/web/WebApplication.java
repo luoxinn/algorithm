@@ -1,13 +1,13 @@
-package com.gloria.study.algorithm;
+package com.gloria.study.algorithm.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AlgorithmApplication {
+public class WebApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AlgorithmApplication.class, args);
+        SpringApplication.run(WebApplication.class, args);
     }
 
 }
