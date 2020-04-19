@@ -61,9 +61,6 @@
             <artifactId>jackson-annotations</artifactId>
             <version>${jackson-core.version}</version>
         </dependency>
-
-
-
     </dependencies>
 
     <build>
